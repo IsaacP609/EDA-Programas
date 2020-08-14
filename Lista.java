@@ -370,7 +370,7 @@ public class Lista {
         tamanio = 0;
     }
     /**
-     * Mustra en pantalla los elementos de la lista.
+     * Muestra en pantalla los elementos de la lista.
      */
     public void listar(){
         // Verifica si la lista contiene elementoa.
