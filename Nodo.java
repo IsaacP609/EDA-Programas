@@ -15,7 +15,7 @@ public class Nodo {
     // Variable para enlazar los nodos.
     private Nodo siguiente;
     /**
-     * Constructor que inicializamos el valor de las variables.
+     * Constructor para inicializar el valor de las variables.
      */
     public void Nodo(){
         this.valor = 0;
