@@ -385,7 +385,7 @@ public class Lista {
                 System.out.print(i + ".[ " + aux.getValor() + " ]" + " ->  ");
                 // Avanza al siguiente nodo.
                 aux = aux.getSiguiente();
-                // Incrementa el contador de la posión.
+                // Incrementa el contador de la posición.
                 i++;
             }
         }
