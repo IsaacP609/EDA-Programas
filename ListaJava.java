@@ -23,7 +23,7 @@ public class ListaJava {
         lista.agregarAlFinal(12);
         lista.agregarAlFinal(15);
         lista.agregarAlFinal(9);
-        // Agregar in inicio de la lista
+        // Agregar al inicio de la lista
         lista.agregarAlInicio(41);
         lista.agregarAlInicio(6);
 
